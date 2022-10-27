@@ -1,0 +1,11 @@
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\bin\Debug\EnigmamethodX1.exe.config
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\bin\Debug\EnigmamethodX1.exe
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\bin\Debug\EnigmamethodX1.pdb
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.csproj.AssemblyReference.cache
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.Form1.resources
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.Properties.Resources.resources
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.csproj.GenerateResource.cache
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.csproj.CoreCompileInputs.cache
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.exe
+C:\Users\Hünkar\C#Project\EnigmamethodX1\EnigmamethodX1\obj\Debug\EnigmamethodX1.pdb
